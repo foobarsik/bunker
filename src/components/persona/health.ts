@@ -1,0 +1,23 @@
+export const badHealth = [
+	'barren',
+	'no arms',
+	'almost blind',
+	'almost deaf',
+	'mute',
+	'chronic diarrhea',
+	'obesity',
+	'Alzheimer\'s in the early stages',
+	'Parkinson',
+	'can give birth only to dwarfs',
+	'have few STDs',
+	'sexual dysfunction',
+	'scoliosis',
+	'dog allergy',
+	'lactose intolerant',
+	'high blood pressure',
+	'low blood pressure',
+	'insomnia',
+	'recovering from stroke',
+	'gynaecomastia (man boobs)',
+	'werewolf syndrome (excessive hair growth anywhere)'
+]
